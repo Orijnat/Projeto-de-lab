@@ -1,12 +1,6 @@
-/******************************************************************************
-
-                            Online C Compiler.
-                Code, Compile, Run and Debug C program online.
-Write your code in this editor and press "Run" button to compile and execute it.
-
-*******************************************************************************/
 
 #include <stdio.h>
+#include <stdlib.h>
 #include <string.h>
 #define QNT_CLIENTES
     int esc,clientes_listados, clientes_cadastrados, produtos_cadastrados;
@@ -48,12 +42,7 @@ Write your code in this editor and press "Run" button to compile and execute it.
      int i = 0;
         printf("escolha qual cliente deseja excluir: ");
         scanf("%d", &i);
-        
-        for (i= 0; clientes[i]) > 0;){
-            for(strlen(clientes[i]) >0){
-            printf("cliente excluido");
-            }
-        }
+
     }
     
     
