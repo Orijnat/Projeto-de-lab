@@ -46,7 +46,7 @@
 // funçao responsavel por excluir um cliente ja cadastrado
     void excluir_cliente(){
      int i = 0;
-        printf("escolha qual cliente deseja excluir: ");
+        printf("escolha o index do cliente que deseja excluir: ");
         scanf("%d", &i);
 
         strcpy(clientes[i],  "" );
