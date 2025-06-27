@@ -317,7 +317,7 @@ int main()
     printf("4. Para listar clientes\n");
     printf("5. para listar os produtos. \n");
     printf("6. Para listar as vendas.\n");
-    printf("7. para atualizar um cliente.");
+    printf("7. para atualizar um cliente.\n");
     printf("8. Para atualizar os produtos.\n");
     printf("9. Para excluir um produto.\n");
     printf("10. para excluir um cliente.\n");
